@@ -1,3 +1,5 @@
 **Shell scripting**: It is good for basic system tasks like file handling, starting services, or running commands.
+
 But __Python__ is more powerful and flexible — it supports automation, data processing, APIs, error handling, and cross-platform scripts easily.
+
 Also, Python has many libraries that make complex tasks simpler compared to shell scripts.
