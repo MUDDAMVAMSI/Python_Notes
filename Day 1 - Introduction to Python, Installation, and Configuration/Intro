@@ -1,3 +1,3 @@
-Introduction to Python and its role in DevOps.
-Installing Python and setting up a development environment.
-Writing your first Python program.
+Shell scripting: It is good for basic system tasks like file handling, starting services, or running commands.
+But Python is more powerful and flexible — it supports automation, data processing, APIs, error handling, and cross-platform scripts easily.
+Also, Python has many libraries that make complex tasks simpler compared to shell scripts.
